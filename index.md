@@ -12,6 +12,16 @@
     </script>
 </head>
 
+### Contents
+
+- [Abstract](#abs)
+- [Paper](#paper)
+- [Code](#code)
+- [Contact](#contact)
+
+
+<a name="abs" />
+
 ### Abstract
 
 <p align="justify">Graph neural networks (GNNs) have demonstrated superior performance for semi-supervised node classification on graphs, as a result of their ability to exploit node features and topological information. However, most GNNs implicitly assume that the labels of nodes and their neighbors in a graph are the same or consistent, which does not hold in heterophilic graphs, where the labels of linked nodes are likely to differ. Moreover, when the topology is non-informative for label prediction, ordinary GNNs may work significantly worse than simply applying multi-layer perceptrons (MLPs) on each node.</p>
@@ -22,13 +32,19 @@
 
 `Keywords`: Discrete $p$-Laplacian, Graph Neural Networks
 
+<a name="paper" />
+
 ### Paper
 
 Preprint: <https://arxiv.org/abs/2111.07337>
 
+<a name="code" />
+
 ### Code
 
 Code: <https://github.com/guoji-fu/pGNNs>
+
+<a name="contact" />
 
 ### Contact
 

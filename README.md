@@ -1,5 +1,3 @@
 # p-gnn.github.io
 
-![](http://latex.codecogs.com/gif.latex?{^p})GNNs
-
-![](https://latex.codecogs.com/svg.latex?{^p}\text{GNNs})
+![](http://latex.codecogs.com/gif.latex?{^p})GNNs ![](https://latex.codecogs.com/svg.latex?{^p}\text{GNNs})

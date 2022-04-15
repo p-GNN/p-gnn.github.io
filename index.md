@@ -43,27 +43,27 @@
 
 <a name="mot" />
 
-### Motivation
+#### Motivation
 
 
 <a name="frame" />
 
-### $p$-Laplacian regularization framework
+#### $p$-Laplacian regularization framework
 
 
 <a name="method" />
 
-### $p$-Laplacian message passing & $^p$GNN architecture
+#### $p$-Laplacian message passing & $^p$GNN architecture
 
 
 <a name="analysis" />
 
-### Spectral Analysis
+#### Spectral Analysis
 
 
 <a name="exp" />
 
-### Experimental results
+#### Experimental results
 
 
 

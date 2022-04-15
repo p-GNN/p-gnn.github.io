@@ -2,4 +2,4 @@
 
 ![](http://latex.codecogs.com/gif.latex?{^p})GNNs
 
-![](https://latex.codecogs.com/svg.latex?{^p})GNNs
+![](https://latex.codecogs.com/svg.latex?{^p}\text{GNNs})

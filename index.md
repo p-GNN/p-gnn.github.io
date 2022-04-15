@@ -8,7 +8,7 @@
 
 <!-- <p align="justify">Empirical studies on real-world and synthetic datasets validate our findings and demonstrate that <img src="http://latex.codecogs.com/gif.latex?^p\text{GNNs}"> significantly outperform several state-of-the-art GNN architectures on heterophilic benchmarks while achieving competitive performance on homophilic benchmarks. Moreover, <img src="http://latex.codecogs.com/gif.latex?^p\text{GNNs}"> can adaptively learn aggregation weights and are robust to noisy edges.</p> -->
 
-`Keywords`: Discrete <img src="http://latex.codecogs.com/gif.latex?p\text{-Laplacian}">, Graph Neural Networks
+`Keywords`: Discrete <img align="bottom" src="http://latex.codecogs.com/gif.latex?p">-Laplacian, Graph Neural Networks
 
 ### Paper
 

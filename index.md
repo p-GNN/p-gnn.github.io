@@ -1,4 +1,16 @@
-## <img src="http://latex.codecogs.com/gif.latex?p">-Laplacian Based Graph Neural Networks
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
+## $p$-Laplacian Based Graph Neural Networks
 
 ### Abstract
 
@@ -8,7 +20,7 @@
 
 <!-- <p align="justify">Empirical studies on real-world and synthetic datasets validate our findings and demonstrate that <img src="http://latex.codecogs.com/gif.latex?^p\text{GNNs}"> significantly outperform several state-of-the-art GNN architectures on heterophilic benchmarks while achieving competitive performance on homophilic benchmarks. Moreover, <img src="http://latex.codecogs.com/gif.latex?^p\text{GNNs}"> can adaptively learn aggregation weights and are robust to noisy edges.</p> -->
 
-`Keywords`: Discrete <img align="bottom" src="http://latex.codecogs.com/gif.latex?p">-Laplacian, Graph Neural Networks
+`Keywords`: Discrete $p$-Laplacian, Graph Neural Networks
 
 ### Paper
 

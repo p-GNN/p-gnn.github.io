@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## <img src="http://latex.codecogs.com/gif.latex?p">-Laplacian Based Graph Neural Networks
 
-You can use the [editor on GitHub](https://github.com/p-GNN/pgnn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Abstract
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graph neural networks (GNNs) have demonstrated superior performance for semi-supervised node classification on graphs, as a result of their ability to exploit node features and topological information. However, most GNNs implicitly assume that the labels of nodes and their neighbors in a graph are the same or consistent, which does not hold in heterophilic graphs, where the labels of linked nodes are likely to differ. Moreover, when the topology is non-informative for label prediction, ordinary GNNs may work significantly worse than simply applying multi-layer perceptrons (MLPs) on each node. 
 
-### Markdown
+To tackle the above problem, we propose a new <img src="http://latex.codecogs.com/gif.latex?p">-Laplacian based GNN model, termed as <img src="http://latex.codecogs.com/gif.latex?^p">GNN, whose message passing mechanism is derived from a discrete regularization framework and can be theoretically explained as an approximation of a polynomial graph filter defined on the spectral domain of <img src="http://latex.codecogs.com/gif.latex?p">-Laplacians. The spectral analysis shows that the new message passing mechanism works as low-high-pass filters, thus rendering <img src="http://latex.codecogs.com/gif.latex?^p">GNNs effective on both homophilic and heterophilic graphs. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Empirical studies on real-world and synthetic datasets validate our findings and demonstrate that <img src="http://latex.codecogs.com/gif.latex?^p">GNNs significantly outperform several state-of-the-art GNN architectures on heterophilic benchmarks while achieving competitive performance on homophilic benchmarks. Moreover, <img src="http://latex.codecogs.com/gif.latex?^p">GNNs can adaptively learn aggregation weights and are robust to noisy edges. -->
 
-```markdown
-Syntax highlighted code block
+`Keywords`: Discrete <img src="http://latex.codecogs.com/gif.latex?p">-Laplacian, Graph Neural Networks
 
-# Header 1
-## Header 2
-### Header 3
+### Paper
 
-- Bulleted
-- List
+Preprint: <https://arxiv.org/abs/2111.07337>
 
-1. Numbered
-2. List
+### Code
 
-**Bold** and _Italic_ and `Code` text
+Code: <https://github.com/guoji-fu/pGNNs>
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Email: <guoji.leo.fu@gmail.com>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p-GNN/pgnn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -15,6 +15,12 @@
 ### Contents
 
 - [Abstract](#abs)
+- [Content](#content)
+    - [Motivation](#mot)
+    - [$p$-Laplacian regularization framework](#frame)
+    - [$p$-Laplacian message passing & $^p$GNN architecture](#method)
+    - [Spectral analysis](#analysis)
+    - [Experimental results](#exp)
 - [Paper](#paper)
 - [Code](#code)
 - [Contact](#contact)
@@ -33,6 +39,33 @@
 <!-- <p align="justify">Empirical studies on real-world and synthetic datasets validate our findings and demonstrate that $^p$GNNs significantly outperform several state-of-the-art GNN architectures on heterophilic benchmarks while achieving competitive performance on homophilic benchmarks. Moreover, $^p$GNNs can adaptively learn aggregation weights and are robust to noisy edges.</p> -->
 
 `Keywords`: Discrete $p$-Laplacian, Graph Neural Networks
+
+
+<a name="mot" />
+
+### Motivation
+
+
+<a name="frame" />
+
+### $p$-Laplacian regularization framework
+
+
+<a name="method" />
+
+### $p$-Laplacian message passing & $^p$GNN architecture
+
+
+<a name="analysis" />
+
+### Spectral Analysis
+
+
+<a name="exp" />
+
+### Experimental results
+
+
 
 <a name="paper" />
 

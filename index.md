@@ -6,9 +6,9 @@ Graph neural networks (GNNs) have demonstrated superior performance for semi-sup
 
 To tackle the above problem, we propose a new <img src="http://latex.codecogs.com/gif.latex?p">-Laplacian based GNN model, termed as <img src="http://latex.codecogs.com/gif.latex?^p">GNN, whose message passing mechanism is derived from a discrete regularization framework and can be theoretically explained as an approximation of a polynomial graph filter defined on the spectral domain of <img src="http://latex.codecogs.com/gif.latex?p">-Laplacians. The spectral analysis shows that the new message passing mechanism works as low-high-pass filters, thus rendering <img src="http://latex.codecogs.com/gif.latex?^p">GNNs effective on both homophilic and heterophilic graphs. 
 
-<!-- Empirical studies on real-world and synthetic datasets validate our findings and demonstrate that <img src="http://latex.codecogs.com/gif.latex?^p">GNNs significantly outperform several state-of-the-art GNN architectures on heterophilic benchmarks while achieving competitive performance on homophilic benchmarks. Moreover, <img src="http://latex.codecogs.com/gif.latex?^p">GNNs can adaptively learn aggregation weights and are robust to noisy edges. -->
+<!-- Empirical studies on real-world and synthetic datasets validate our findings and demonstrate that <img src="http://latex.codecogs.com/gif.latex?^p">GNNs significantly outperform several state-of-the-art GNN architectures on heterophilic benchmarks while achieving competitive performance on homophilic benchmarks. Moreover, <img src="http://latex.codecogs.com/gif.latex?^p\text{GNNs}"> can adaptively learn aggregation weights and are robust to noisy edges. -->
 
-`Keywords`: Discrete <img src="http://latex.codecogs.com/gif.latex?p">-Laplacian, Graph Neural Networks
+`Keywords`: Discrete <img src="http://latex.codecogs.com/gif.latex?p-">Laplacian, Graph Neural Networks
 
 ### Paper
 
